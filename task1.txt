@@ -1,0 +1,8 @@
+@Abuzar..Please start with the below task mentioned and also put update in this group about your status everyday
+T1-Day 1 (Sept-19-2024)
+1-Learn Families of Azure Vms with its Usecase
+2-Create Vm which consists of Dev Env specification and install Nginx webserver
+3-After Doing above task take a snapshot of it
+4-Learn in detail what nginx is ..And learn in detail difference between Nginx and Apache2 webserver
+5-Find what are the various way to enter the Azure vms
+6-Learn what is Custom script in Azure vm and its usecase
